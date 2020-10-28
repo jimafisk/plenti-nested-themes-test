@@ -1,0 +1,9 @@
+{
+	"types": {
+		"pages": "/:filename"
+	},
+  "theme": "tags",
+	"local": {
+		"port": 3000
+	}
+}

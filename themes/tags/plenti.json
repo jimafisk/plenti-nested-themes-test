@@ -1,0 +1,7 @@
+{
+	"build": "public",
+  "theme": "wildest-post",
+	"local": {
+		"port": 3000
+	}
+}
